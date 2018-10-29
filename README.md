@@ -1,1 +1,1 @@
-#Stock picking project, Fall 2018
+## Stock picking project, Fall 2018
